@@ -1,11 +1,11 @@
 
 body {
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
   font-weight: 900;
 }
 
@@ -33,7 +33,7 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-weight: 900;
   font-size: 3.5rem;
   line-height: 1.5;
@@ -51,7 +51,7 @@ p {
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", sans-serif;
   font-size: 2.5rem;
   font-weight: 700;
 }
@@ -62,7 +62,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-light";
+  font-family: "Montserrat-light", sans-serif;
 }
 
 /* Download Buttons */
